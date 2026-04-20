@@ -1,0 +1,20 @@
+.claude/
+
+# C build artifacts
+*.o
+*.a
+mandelbrot/main
+*.pgm
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.Zone.Identifier
+.DS_Store
